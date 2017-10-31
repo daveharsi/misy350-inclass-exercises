@@ -2,7 +2,7 @@ console.log("hello");
 
 // arrays
 let bucket_list = ["Travel around Europe", "Go to Japan", "Go to Key West"];
-console.log(bucket_list[3]);
+console.log(bucket_list[2]);
 
 // for loop
 for (let i = 0; i < bucket_list.length; i++) {
